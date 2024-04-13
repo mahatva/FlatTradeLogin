@@ -1,3 +1,2 @@
 # Pytest-Selenium-GitHubActions
-Project for running pytest and selenium with github actions.
-code fixed.Now this branch is working.
+Project for doing automatic login at 8am and at 8:55am for quantman
